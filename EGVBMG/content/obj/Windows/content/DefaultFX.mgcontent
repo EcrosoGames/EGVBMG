@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/DefaultFX.fx</SourceFile>
+  <SourceTime>2022-11-04T12:19:47.4216425-07:00</SourceTime>
+  <DestFile>D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/bin/Windows/Content/DefaultFX.xnb</DestFile>
+  <DestTime>2024-09-28T09:05:58.3190616-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

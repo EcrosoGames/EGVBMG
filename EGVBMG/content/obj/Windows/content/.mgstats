@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/DefaultFX.fx","D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/bin/Windows/Content/DefaultFX.xnb","EffectProcessor","CompiledEffectContent",710,744,0.3283543
+"D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/fonts.png","D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/bin/Windows/Content/fonts.xnb","TextureProcessor","Texture2DContent",13496,540309,0.316452
+"D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/fonts2X.png","D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/bin/Windows/Content/fonts2X.xnb","TextureProcessor","Texture2DContent",32530,2160981,0.0408952
+"D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/menuscreen.png","D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/bin/Windows/Content/menuscreen.xnb","TextureProcessor","Texture2DContent",145,101,0.0006439
+"D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/Textbox GUI Frames.png","D:/Docs2/EcrosoGames/Source/Code/2024/Stellaxy3/EGVBMG/content/bin/Windows/Content/Textbox GUI Frames.xnb","TextureProcessor","Texture2DContent",29766,6258773,0.1202125

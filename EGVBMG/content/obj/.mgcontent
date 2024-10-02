@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Docs2/EcrosoGames/Source/Code/GBA-VB-engine/EGVBMG/content/DefaultFX.fx</File>
+    <File>D:/Docs2/EcrosoGames/Source/Code/GBA-VB-engine/EGVBMG/content/fonts.png</File>
+    <File>D:/Docs2/EcrosoGames/Source/Code/GBA-VB-engine/EGVBMG/content/fonts2X.png</File>
+    <File>D:/Docs2/EcrosoGames/Source/Code/GBA-VB-engine/EGVBMG/content/menuscreen.png</File>
+    <File>D:/Docs2/EcrosoGames/Source/Code/GBA-VB-engine/EGVBMG/content/Textbox GUI Frames.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
